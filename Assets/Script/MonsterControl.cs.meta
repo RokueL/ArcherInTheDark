@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dbc76ca901b12fd4083cd811da7fa0e7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bossRagdoll: {fileID: 1537592174640000820, guid: caefbf1b57b8ae54390593223f12761a, type: 3}
+  - mobRagdoll: {fileID: 9151484373904906131, guid: 584e105ebe4f2b14591e3aabceb3c316, type: 3}
+  - portal: {fileID: 7925908207704047568, guid: 335946c4528dd1e4cb26cd4893d8ac70, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
